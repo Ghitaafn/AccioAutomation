@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description>User failed login with invalid email</description>
@@ -6,3 +7,13 @@
    <comment></comment>
    <testCaseGuid>c21d4711-e6c4-4ef8-a126-4e231983c184</testCaseGuid>
 </TestCaseEntity>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User failed login with invalid email</description>
+   <name>Login with invalid email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c21d4711-e6c4-4ef8-a126-4e231983c184</testCaseGuid>
+</TestCaseEntity>
+>>>>>>> 314f135d0807b642b2d0b92fa7654c87170c5bf7

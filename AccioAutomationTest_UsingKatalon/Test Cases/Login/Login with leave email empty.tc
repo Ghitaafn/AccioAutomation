@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description>User failed login when field email empty</description>
@@ -6,3 +7,13 @@
    <comment></comment>
    <testCaseGuid>3bc330e9-0f9b-4f0d-826b-91662346d4c7</testCaseGuid>
 </TestCaseEntity>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User failed login when field email empty</description>
+   <name>Login with leave email empty</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3bc330e9-0f9b-4f0d-826b-91662346d4c7</testCaseGuid>
+</TestCaseEntity>
+>>>>>>> 314f135d0807b642b2d0b92fa7654c87170c5bf7

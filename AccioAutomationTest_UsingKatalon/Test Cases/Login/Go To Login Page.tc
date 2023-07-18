@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
@@ -6,3 +7,13 @@
    <comment></comment>
    <testCaseGuid>f5d79044-68e8-4425-95cd-aa23448b92ee</testCaseGuid>
 </TestCaseEntity>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Go To Login Page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f5d79044-68e8-4425-95cd-aa23448b92ee</testCaseGuid>
+</TestCaseEntity>
+>>>>>>> 314f135d0807b642b2d0b92fa7654c87170c5bf7

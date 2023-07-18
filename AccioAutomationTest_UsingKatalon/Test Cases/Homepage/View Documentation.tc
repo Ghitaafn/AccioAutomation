@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description>As User I want to view Documentation menu</description>
@@ -6,3 +7,13 @@
    <comment></comment>
    <testCaseGuid>60563db4-1ab8-47cc-a499-652c25ff0314</testCaseGuid>
 </TestCaseEntity>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>As User I want to view Documentation menu</description>
+   <name>View Documentation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>60563db4-1ab8-47cc-a499-652c25ff0314</testCaseGuid>
+</TestCaseEntity>
+>>>>>>> 314f135d0807b642b2d0b92fa7654c87170c5bf7

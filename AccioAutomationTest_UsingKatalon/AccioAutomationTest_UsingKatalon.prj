@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <Project>
    <description></description>
@@ -27,3 +28,34 @@
    <timeStampInProperties>false</timeStampInProperties>
    <type>GENERIC</type>
 </Project>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description></description>
+   <name>AccioAutomationTest_UsingKatalon</name>
+   <tag></tag>
+   <UUID>39e133d0-81e2-473e-9099-a2b5a4bfabdd</UUID>
+   <migratedVersion>5.9.0</migratedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+   <sourceContent>
+      <sourceFolderList>
+         <sourceFolderConfiguration>
+            <url>Include/scripts/groovy</url>
+         </sourceFolderConfiguration>
+      </sourceFolderList>
+      <systemFolderList>
+         <systemFolderConfiguration>
+            <url>Include/scripts/groovy</url>
+         </systemFolderConfiguration>
+         <systemFolderConfiguration>
+            <url>Include/features</url>
+         </systemFolderConfiguration>
+         <systemFolderConfiguration>
+            <url>Include/config</url>
+         </systemFolderConfiguration>
+      </systemFolderList>
+   </sourceContent>
+   <timeStampInProperties>false</timeStampInProperties>
+   <type>GENERIC</type>
+</Project>
+>>>>>>> 314f135d0807b642b2d0b92fa7654c87170c5bf7
