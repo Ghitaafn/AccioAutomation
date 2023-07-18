@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>As User I want to view Documentation menu</description>
+   <name>View Documentation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>60563db4-1ab8-47cc-a499-652c25ff0314</testCaseGuid>
+</TestCaseEntity>
